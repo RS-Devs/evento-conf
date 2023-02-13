@@ -1,12 +1,11 @@
 # Evento-conf (Conferencia de Eventos y Desafíos de Programación)
 
-Este proyecto consiste en una página web para promocionar una conferencia sobre eventos y desafíos de programación. La página cuenta con una cabecera con el logotipo de la conferencia y un título, así como una sección de cuenta atrás que muestra el tiempo restante hasta el evento.
+Este proyecto consiste en una página web creada unicamente con Javascript y Bootstrap v5.3 para promocionar una conferencia sobre eventos y desafíos de programación. La página cuenta con una cabecera con el logotipo de la conferencia y un título, así como una sección de cuenta atrás que muestra el tiempo restante hasta el evento.
 
 
 # Tecnologías utilizadas
 
 - HTML5
-- CSS
 - JavaScript
 - Bootstrap 5 (framework de diseño de componentes de código abierto)
 - Font Awesome (iconos vectoriales)
